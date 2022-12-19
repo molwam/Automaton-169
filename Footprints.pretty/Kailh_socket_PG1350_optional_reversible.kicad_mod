@@ -137,4 +137,19 @@
   (pad "2" smd rect (at -8.275 -3.75) (size 2.6 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 80124a46-55ef-4f66-bb6a-59647edf11f8))
   (pad "2" smd rect (at 8.275 -3.75) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp db07e216-5a19-4e2c-9c0a-7e07530f7f8f))
   (pad "2" thru_hole circle (at -5 3.8) (size 2.032 2.032) (drill 1.27) (layers *.Cu *.Mask) (tstamp f0195197-8eb4-46c3-aa3b-c90139df8e88))
+  (model "${KIPRJMOD}/3D/Kailh_switch_PG1350_optional.step"
+    (offset (xyz 0 0 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/3D/Kailh_socket_PG1350_optional.STEP"
+    (offset (xyz 10 6 -2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+  (model "${KIPRJMOD}/3D/MBK_Keycap_-_1u.step"
+    (offset (xyz 0 0 6.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

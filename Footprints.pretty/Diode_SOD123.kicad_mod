@@ -22,7 +22,7 @@
   (fp_line (start 0.4 0.7) (end -0.5 0) (layer "F.SilkS") (width 0.15) (tstamp ecc0ecab-1aee-4b43-b7ae-3554c9fac2a0))
   (pad "1" thru_hole rect (at -1.7 0) (size 1.8 1.5) (drill 0.4) (layers *.Cu *.Mask) (tstamp fd71efeb-8e32-4715-9e6b-160a10304850))
   (pad "2" thru_hole rect (at 1.7 0) (size 1.8 1.5) (drill 0.4) (layers *.Cu *.Mask) (tstamp f83d585b-4500-4163-a4ff-1ca733793bb7))
-  (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+  (model "${KIPRJMOD}/3D/D_SOD-123.step"
     (offset (xyz 0 0 -1.7))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
