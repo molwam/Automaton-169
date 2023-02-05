@@ -1,9 +1,11 @@
 
-# PCB
 
+# PCB
+![PCB top](https://github.com/molwam/Automaton-169/blob/main/docs/images/top.png?raw=true)
+![enter image description here](https://github.com/molwam/Automaton-169/blob/main/docs/images/bottom.png?raw=true)
 ## Ordering
 
-You can use the gerber.zip file to order the PCB at your favorite PCB manufacturer. It's reversible so you need to order at least 2. These are the required settings when ordering:
+You can use the [gerber.zip](https://github.com/molwam/Automaton-169/blob/main/pcb/gerber.zip) file to order the PCB at your favorite PCB manufacturer. It's reversible so you need to order at least 2. These are the required settings when ordering:
 
  - Material: FR-4
  - Layers: 2
